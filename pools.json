@@ -488,6 +488,10 @@
             "name" : "Binance Pool",
             "link" : "https://pool.binance.com/"
         },
+        "binance.com/": {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binance.com/"
+        },
         "/Minerium.com/" : {
             "name" : "Minerium",
             "link" : "https://www.minerium.com/"
