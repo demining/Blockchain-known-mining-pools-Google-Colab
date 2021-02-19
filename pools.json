@@ -220,6 +220,10 @@
             "name" : "Solo CK",
             "link" : "http://solo.ckpool.org/"
         },
+        "ckpool" : {
+            "name" : "CKPool",
+            "link" : "http://ckpool.org"
+        },
         "/ckpool.org/" : {
             "name" : "CKPool",
             "link" : "http://ckpool.org"
@@ -593,6 +597,10 @@
         "1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr" : {
             "name" : "SlushPool",
             "link" : "https://slushpool.com/"
+        },
+        "3P8sR3K8wAk3bom7tqpr5VrzCz9TVYNTQd" : {
+            "name" : "CKPool",
+            "link" : "http://ckpool.org"
         },
         "1AcAj9p6zJn4xLXdvmdiuPCtY7YkBPTAJo" : {
             "name" : "BitFury",
