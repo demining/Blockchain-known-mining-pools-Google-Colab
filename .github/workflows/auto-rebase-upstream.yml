@@ -14,7 +14,7 @@ jobs:
     - uses: imba-tjd/rebase-upstream-action@master
       id: rebase
       with:
-        upstream: https://github.com/btccom/Blockchain-Known-Pools.git
+        upstream: btccom/Blockchain-Known-Pools
     - uses: ad-m/github-push-action@master
       if: steps.rebase.outputs.needs-push
       with:
