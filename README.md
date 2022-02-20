@@ -1,5 +1,14 @@
 # Known Bitcoin Pools
 
+
+-------------------------
+### Run Google-Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 This pool list is forked from [btccom/Blockchain-Known-Pools](https://github.com/btccom/Blockchain-Known-Pools). 
 
 Changes from upstream:
