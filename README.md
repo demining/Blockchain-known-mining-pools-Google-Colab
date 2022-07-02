@@ -16,3 +16,10 @@ Changes from upstream:
 - [cleanup: addresses that definitely aren't coinbase output addresses ](https://github.com/0xB10C/known-mining-pools/pull/6)
 - [change: all URLs to HTTPS](https://github.com/0xB10C/known-mining-pools/commit/ed4b3f3ac96f28c11bea570ed071dfbafa3cef80)
 - add: various pools
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
